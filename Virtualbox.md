@@ -1,4 +1,4 @@
-# IT 101 → Expert: Hands-On Training README
+# IT 101 → Expert: Hands-On Training 
 
 **Audience:** Complete beginners through aspiring systems administrators, network engineers, and security practitioners.  
 **Format:** Explanation → prerequisites → exact steps → expected result → troubleshooting → practice → completion check.  
