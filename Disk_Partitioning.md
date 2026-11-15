@@ -1,4 +1,4 @@
-# IT 101 — Disk Partitioning: Novice to Advanced
+# Disk Partitioning
 
 > **Hands-on lab:** Learn to inspect, create, shrink, format, mount, and troubleshoot partitions on Windows and Linux. Practice on a **disposable VM disk** before touching a physical computer.
 
